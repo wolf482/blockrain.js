@@ -1,7 +1,7 @@
 Blockrain.js
 ============
 
-A tetris game in HTML5 + Javascript (with autoplay!)
+A tetris game in HTML5 + Javascript (with autoplay!) by AFRA.
 
 **[Check out the demo](http://aerolab.github.io/blockrain.js/)**
 
