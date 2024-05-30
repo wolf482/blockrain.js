@@ -3,6 +3,8 @@ Blockrain.js
 
 A tetris game in HTML5 + Javascript (with autoplay!) by AFRA.
 
+just trying to make a game
+
 **[Check out the demo](http://aerolab.github.io/blockrain.js/)**
 
 ![Blockrain Screenshot](http://aerolab.github.io/blockrain.js/assets/images/blockrain.png)
